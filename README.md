@@ -16,16 +16,15 @@ Practical and hands-on **Network Engineer** with proven experience in physical i
 
 ---
 
-## 📜 Technical Qualifications & Education
-* **CCNA** – Cisco Certified Network Associate (Completed)
-* **Master of Computer Applications (MCA)**
+## 📜 Technical Qualifications
+* **CCNA** – Cisco Certified Network Associate
 
 ---
 
 ## 🛠️ Technical Competencies & Experience
 
 ### 🔌 Network Infrastructure & Deployment
-* **Hardware Installation:** Hands-on experience assembly, mounting, and provisioning routers, switches, and network rack enclosures.
+* **Hardware Installation:** Hands-on experience with the assembly, mounting, and provisioning of routers, switches, and network rack enclosures.
 * **Cisco Networking:** Core routing and switching configuration lab experience using Cisco Catalyst hardware.
 * **Physical Topologies:** Infrastructure cabling, patch panel punch-downs, and clean rack cable management.
 
@@ -39,10 +38,12 @@ Practical and hands-on **Network Engineer** with proven experience in physical i
 
 ---
 
-## 🚀 Vendor Technologies I Work With
+## 🛠️ Tools & Technologies I Use
 <p align="left">
-  <!-- Cisco -->
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+  <img src="https://img.shields.io/badge/Hardware-PC_&_Printer-🖨️?style=for-the-badge&color=444444" alt="Hardware Setup" />
+  <img src="https://img.shields.io/badge/Surveillance-CCTV_&_IP_Cam-📹?style=for-the-badge&color=8A2BE2" alt="CCTV Systems" />
+  <img src="https://img.shields.io/badge/Infrastructure-Rack_&_Cable-🔌?style=for-the-badge&color=2E8B57" alt="Rack Installation" />
 </p>
 
 ---
@@ -50,7 +51,7 @@ Practical and hands-on **Network Engineer** with proven experience in physical i
 ## 📊 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalvashokan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Amal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalvashokan&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=333333&bg_color=ffffff" alt="Amal's GitHub Stats" width="48%" />
 </p>
 
 ---
