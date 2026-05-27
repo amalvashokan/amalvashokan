@@ -53,7 +53,7 @@ I am always open to discussing hardware deployments, infrastructure installation
 
 <p align="left">
   <a href="https://amalvashokan99.github.io">
-    <img src="https://img.shields.io/badge/Website-amalvashokan99.github.io-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Banner" />
+    <img src="https://img.shields.io/badge/Website-amalvashokan.github.io-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Banner" />
   </a>
   <a href="https://www.linkedin.com/in/amalva/">
     <img src="https://img.shields.io/badge/LinkedIn-Amal%20V%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner" />
