@@ -48,16 +48,14 @@ Practical and hands-on **Network Engineer** with proven experience in physical i
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalvashokan&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=333333&bg_color=ffffff" alt="Amal's GitHub Stats" width="48%" />
-</p>
-
----
-
 ## 📬 Let's Connect!
 I am always open to discussing hardware deployments, infrastructure installations, or local network configuration projects.
 
-* **Portfolio Website:** [amalvashokan99.github.io](https://amalvashokan99.github.io)
-* **Professional Networking:** [LinkedIn Profile](https://www.linkedin.com/in/amalva/)
+<p align="left">
+  <a href="https://amalvashokan99.github.io">
+    <img src="https://img.shields.io/badge/Website-amalvashokan99.github.io-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Banner" />
+  </a>
+  <a href="https://www.linkedin.com/in/amalva/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amal%20V%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner" />
+  </a>
+</p>
